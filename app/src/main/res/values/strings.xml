@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="delete_confirm">Delete item</string>
+    <string name="delete_message">Are you sure you want to delete this item?</string>
+</resources>
